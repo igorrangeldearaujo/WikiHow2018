@@ -1,0 +1,23 @@
+{
+  "name": "comofazer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Igor Rangel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.4",
+    "ejs-lint": "^0.3.0",
+    "express": "^4.17.1",
+    "firebase": "^7.18.0",
+    "scripts": {
+      "start": "serve"
+    },
+    "serve": "^10.1.1"
+  }
+}
